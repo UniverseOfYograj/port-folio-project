@@ -33,7 +33,7 @@ Feel free to explore the portfolio to learn more about me and my work.
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
+1. Clone the repository: `https://github.com/UniverseOfYograj/port-folio-project.git`
 2. Open the project in your preferred code editor.
 3. Open the `index.html` file in your browser.
 
